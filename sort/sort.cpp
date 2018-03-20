@@ -1,7 +1,7 @@
 #include "sort.h"
 #include <stdio.h>
 
-/* ¥Ú”° */
+/* print sort */
 void printf_sort_array(int array[], int array_length)
 {
 	for (int i = 0; i < array_length; i++)
