@@ -13,7 +13,7 @@ void printf_sort_array(int array[], int array_length)
 }
 
 
-/* ц╟ещеепР */
+/* bubble sort */
 void bubble_sort(int array[], int array_length)
 {
 	int i = 0;
